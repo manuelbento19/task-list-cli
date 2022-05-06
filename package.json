@@ -5,6 +5,10 @@
   "repository": "https://github.com/manuelbento19/task-list-cli.git",
   "author": "manuelbento19 <manuelbentomb.223@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "task-list":"./bin/mb-cli.js"
+  },
+  "files": ["./bin"],
   "scripts": {
     "start": "node ./src/index.js"
   },
