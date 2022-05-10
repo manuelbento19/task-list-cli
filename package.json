@@ -1,5 +1,5 @@
 {
-  "name": "task-list",
+  "name": "task-list-mb",
   "version": "1.0.0",
   "main": "./src/index.js",
   "repository": "https://github.com/manuelbento19/task-list-cli.git",
